@@ -1,4 +1,6 @@
 # TYL-DATA-SCIENCE-ASSIGNMENT
+# USN - 1CR19IS193
+# NAME - JITESH KALTA
 
 Assignment I:(20 marks)
  1)      Build the Linear regression and Logistic regression model on the dataset. Tune the parameters. Visualize the results. Measure the model performance using confusion matrix and ROC curve. Conclude with the summary of your findings.
