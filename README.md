@@ -1,5 +1,5 @@
 # TYL-DATA-SCIENCE-ASSIGNMENT
-DataScience-Assignment
+
 Assignment I:(20 marks)
  1)      Build the Linear regression and Logistic regression model on the dataset. Tune the parameters. Visualize the results. Measure the model performance using confusion matrix and ROC curve. Conclude with the summary of your findings.
 Dataset link: any tumor/cancer related dataset image dataset
